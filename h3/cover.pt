@@ -1,0 +1,16 @@
+<div>
+	<div class="title" style="height: 100px;">
+		<h1>KTH H3 참관기</h1>
+	</div>
+	<div style="float:left; margin-top:50px;">
+		<img src="img/about_visual.png">
+	</div>
+
+	<div class="author" style="float:right; margin-top:300px;">
+		<p>
+		IDE 파트 이본용<br>
+		bonyong.lee@samsung.com
+		</p>
+	</div>
+</div>
+

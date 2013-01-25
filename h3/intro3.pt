@@ -1,0 +1,14 @@
+<div>
+	<h1>Intro</h1>
+
+	<ul>
+		<li>사전 등록이 7분만에 마감될 정도의 인기</li>
+		<li>사전 등록은 모바일 앱과 REST API를 이용
+			<ul><li>
+			wget --post-data="name=bylee&email=bonyong.lee@samsung.com" http://h3.kthcorp.com/2012/h3api/postReg
+			</li></ul>
+		</li>
+		<li>1 Key Note &amp; 24 Sessions</li>
+		<li><a href="http://h3.kthcorp.com/2012/" target="_blank">http://h3.kthcorp.com/2012/</a></li>
+	</ul>
+</div>

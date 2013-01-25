@@ -1,0 +1,11 @@
+<div class="page">
+	<h1>Just Do IT. Chef!<h1>
+	<div class="left" style="text-align: left;">
+		<ul>
+			<li>Thick Client, Thin Server</li>
+			<li>Order Matters</li>
+			<li>Reasonability</li>
+		</ul>
+	</div>
+	<div class="right"><img src="img/chef-archi.png" width="370", height="300"/></div>
+</div>

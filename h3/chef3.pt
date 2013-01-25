@@ -1,0 +1,12 @@
+<div>
+	<h1>Just Do IT. Chef!</h1>
+	<ul>
+		<li>Knife - Command Line Interface for Chef</li>
+		<li>Cookbook - A set of recipes, resources def, etc.</li>
+		<li>Role - Predefined runlists</li>
+		<li>RunList - Todo list for node, A set of recipes</li>
+		<li>Recipe - A set of resources</li>
+		<li>Resource - cross-platform abstraction</li>
+	</ul>
+	
+</div>

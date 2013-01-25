@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" href="../css/style.css"/>
+
+		<script type="text/javascript" src="../js/jquery-1.8.2.js"></script>
+		<script type="text/javascript" src="../js/jmpress.all.js"></script>
+		<script type="text/javascript" src="../js/mustache.js"></script>
+		<script type="text/javascript" src="../js/underscore.js"></script>
+		<script type="text/javascript" src="../js/backbone.js"></script>
+		<script type="text/javascript" src="../js/pt.js"></script>
+		<style type="text/css">
+			.step {
+				width: 99%;
+				height: 99%;
+				min-width: 900px;
+				min-height: 680px;
+				background-color: white;
+
+				display: block;
+				padding: 60px 60px;
+				border-radius: 10px;
+
+				box-shadow: 0 2px 6px rgba( 0, 0, 0, 0.2 );
+				border: 1px solid rgba( 0, 0, 0, .5 );
+
+			    color: rgb(102, 102, 102);
+			    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+
+			    letter-spacing: -1px;	
+			}
+
+			.page h1 {
+				text-align: center;
+				margin-bottom: 50px;
+				font-size: 40px;
+			}
+			.page .center {
+				text-align: center;
+			}
+			.page .left {
+				float: left;
+				width: 50%;
+			}
+			.page .right {
+				float: right;
+				width: 50%;
+			}
+			.page ul {
+				margin-top: 20px;
+			}
+			.page li {
+				margin-bottom: 10px;
+			}
+			.page strong {
+				font-weight: bold;
+				color: red;
+			}
+			.page table {
+				font-size: 17px;
+			}
+			.page th {
+				border-bottom: 3px solid #CCC;
+			}
+			.page td {
+				padding: 4px 15px;
+				border-top: 1px dashed #CCC;
+			}
+			.author {
+				text-align: right;
+			}
+			.caption {
+				font-size: 60%;
+				font-family: Verdana, Arial, sans-serif;
+				text-align: center;
+			}
+			.dark {
+				background: black;
+				display: fixed;
+			}
+			.code {
+				font-size: 17px;
+			}
+
+
+		</style>
+	</head>
+	<body>
+		<div id="slide">
+		</div>
+	<script type="text/javascript">
+
+		slide = new Slide( { url: 'index.json' } );
+		slideView = new SlideView( { model: slide, el: $( '#slide' ) } );
+
+	</script>
+	</body>
+</html>
+
+

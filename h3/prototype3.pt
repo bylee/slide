@@ -1,0 +1,18 @@
+<div>
+	<h1>모두의 도구로 프로토타이핑을 시작하라!</h1>
+	<div class="left">
+	<ul>
+		<li>Fireworks<ul>
+			<li>여러 페이지를 하나의 파일로 관리할 수 있음</li>
+			<li>마스터 페이지 기능 지원</li>
+			<li>Symbol 기능을 통해 수정이 용이</li>
+			<li>각 페이지간의 이동을 핫 스팟으로 연결</li>
+			<li>다야한 포맷으로 Export( html, pdf, ... )</li>
+		</ul></li>
+	</ul>
+	</div>
+	<div class="right">
+		<a target="blank" href="img/prototype2.png"><img src="img/prototype2.png" width="400" height="300"/></a>
+	</div>
+
+</div>

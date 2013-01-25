@@ -1,0 +1,16 @@
+<div>
+	<h1>DevOps와 자동화</h1>
+	<div style="display: inline; float: left; width: 50%;" >
+	<ul>
+		<li>Netflix - AWS에 10,000개의 인스턴스를 10명이 관리</li>
+		<li>Flickr - 초당 40,000장의 사진 업로드. 최대 하루에 10번씩 코드 배포</li>
+		<li>fotopedia - 일 1억 5000만 페이지뷰. 매일 평균 3번의 Hot-patch를 배포</li>
+		<li>Instagram - 18개월. 직원 13명.</li>
+	</ul>
+	</div>
+	<div style="float: right; width: 50%;">
+		<a href="img/instagram-employees--users.png">
+			<img src="img/instagram-employees--users.png" width='370' height='250'>
+		</a>
+	</div>
+</div>

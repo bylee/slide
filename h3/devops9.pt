@@ -1,0 +1,42 @@
+<div>
+	<h1>DevOps와 자동화</h1>
+	<div style="margin-bottom: 10px;"><p>KTH DevOps Roadmap</p></div>
+	<table style="width: 100%">
+		<tr>
+			<th>마일스톤</th>
+			<th>사용 소프트웨어</th>
+		</tr>
+		<tr>
+			<td>이슈 통합</td>
+			<td>Jira</td>
+		</tr>
+		<tr>
+			<td>계정 통합</td>
+			<td>Active Directory</td>
+		</tr>
+		<tr>
+			<td>소스활용 효율성 확보</td>
+			<td>GitlabHQ, Gitblit, GitHub</td>
+		</tr>
+		<tr>
+			<td>빌드통합 및 사내배포 자동화</td>
+			<td>Jenkins, 자체 개발</td>
+		</tr>
+		<tr style="background: #FFD0C0">
+			<td>테스트 자동화</td>
+			<td>JUnit, SoapUI등</td>
+		</tr>
+		<tr style="background: #FFD0C0">
+			<td>시스템 설정 자동화</td>
+			<td>Chef, 자체 개발</td>
+		</tr>
+		<tr style="background: #FFD0C0">
+			<td>모니터링 자동화</td>
+			<td>자체 개발</td>
+		</tr>
+		<tr style="background: #FFD0C0">
+			<td>배포 자동화</td>
+			<td>자체 개발</td>
+		</tr>
+	</table>
+</div>

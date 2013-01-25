@@ -1,0 +1,16 @@
+<div>
+	<h1>오픈소스로 개발 실력 쌓기</h1>
+
+	<div>
+		<ul>
+			<li>프로젝트 선정하기
+			<ul>
+				<li>검색엔진 검색결과 개수</li>
+				<li>프로젝트 비교 - 구글 트랜드</li>
+				<li>stackoverflow(http://stackoverflow.com)에서 언급된 횟수</li>
+				<li>프로젝트 WIKI, 소스코드 주석의 질</li>
+				<li>참여하는 사람의 수</li>
+			</ul></li>
+		</ul>
+	</div>
+</div>

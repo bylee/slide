@@ -1,0 +1,12 @@
+<div>
+	<h1>우리가 모르는 Node.js로 할 수 있는 몇가지</h1>
+
+	<ul>
+		<li>자바 스크립트로 만드는 HTTP서버 로컬리( locally ) 개발 경험 공유<ul>
+			<li>파이썬의 SimpleHTTPServer모듈에 영감을 얻음</li>
+			<li>현재 작업 디렉토리( cwd )를 Document Base로하는 웹서버 구동</li>
+			<li>웹서버 소켓 처리는 connect 모듈 사용</li>
+			<li>NPM 모듈로 등록되어 있음</li>
+		</ul></li>
+	</ul>
+</div>

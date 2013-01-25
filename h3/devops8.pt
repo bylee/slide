@@ -1,0 +1,56 @@
+<div>
+	<h1>DevOps와 자동화</h1>
+	<div style="margin-bottom: 10px;"><p>KTH DevOps 적용 사례</p></div>
+	<table style="width: 100%">
+		<tr>
+			<th></th>
+			<th>Before</th>
+			<th>After</th>
+		</tr>
+		<tr>
+			<td>이슈관리</td>
+			<td>메일, 메신져, 전화</td>
+			<td>Jira 티켓으로 통합</td>
+		</tr>
+		<tr>
+			<td>소스 + 이슈 관리</td>
+			<td>별도 관리</td>
+			<td>Jira 티켓으로 통합</td>
+		</tr>
+		<tr>
+			<td>소스 빌드</td>
+			<td>로컬 빌드</td>
+			<td>시스템 빌드</td>
+		</tr>
+		<tr>
+			<td>테스트</td>
+			<td>케이스별 직접 테스트</td>
+			<td>빌드후 자동 테스트</td>
+		</tr>
+		<tr>
+			<td>서버 배포</td>
+			<td>파일 복사. 직접 재기동</td>
+			<td>시스템 배포. 자동 재기동</td>
+		</tr>
+		<tr>
+			<td>앱 배포</td>
+			<td>파일 복사</td>
+			<td>빌드후 자동 배포</td>
+		</tr>
+		<tr>
+			<td>빌드후 모니터링</td>
+			<td>직접 모니터링</td>
+			<td>배포후 자동 모니터링</td>
+		</tr>
+		<tr>
+			<td>서버 설정</td>
+			<td>정해진 룰에 의해 적접 설치/설정</td>
+			<td>자동 설치. 설정</td>
+		</tr>
+		<tr>
+			<td>VM 인스턴스 생성</td>
+			<td>콘솔에서 직접 생성</td>
+			<td>설정 툴에서 자동 생성</td>
+		</tr>
+	</table>
+</div>

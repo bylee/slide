@@ -1,0 +1,13 @@
+<div>
+	<h1>오픈소스로 개발 실력쌓기</h1>
+
+	<div>
+		<ul>
+			<li><a href="http://h3.kthcorp.com/2012/session/index/S046">http://h3.kthcorp.com/2012/session/index/S046</a></li>
+			<li>오픈 소스를 분석하는 것은 쉽지않다.</li>
+			<li>정제된 코드를 보고 이해하며 자신의 실력도 키울 수 있다.</li>
+			<li>Contributor가 되어 기여하면 큰 성취감과 영예를 얻을 수 있다.</li>
+			<li>많이 찾아보고 build / run / debug하면서 의도를 알아차리는 것이 중요하다.</li>
+		</ul>
+	</div>
+</div>

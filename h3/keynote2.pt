@@ -1,0 +1,16 @@
+<div>
+	<h1>Keynote</h1>
+
+	<ul>
+		<li><a href="http://h3.kthcorp.com/2012/session/index/S010" target="blank">Backend platform의 미래, baas.io</a> - 박태웅 부사장</li>
+		<li>나이나 직책에 비해 젊은 감각의 발표</li>
+		<li>KTH의 생동감있는 문화를 엿볼 수 있는 기회였음</li>
+		<li>주요 내용
+		<ul>
+			<li>Standalone App : Server-interactive App = 80 : 20 이지만 수익은 20%의 앱에서 발생</li>
+			<li>App 개발자는 Server개발을 어려워함</li>
+			<li>이를 위해 KTH에서 서버에서 많이 사용되는 기능을 API형태로 제공하는 baas.io를 개발함</li>
+		</ul>
+		</li>
+	</ul>
+</div>

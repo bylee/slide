@@ -1,0 +1,56 @@
+{
+	"name": "H3 참관기",
+	"cover": "cover.pt",
+	"pages": [
+		"index.pt",
+
+		"intro1.pt",
+		"intro2.pt",
+		"intro3.pt",
+		"intro4.pt",
+
+		"keynote1.pt",
+		"keynote2.pt",
+		"keynote3.pt",
+
+		"prototype1.pt",
+		"prototype1-1.pt",
+		"prototype2.pt",
+		"prototype3.pt",
+		"prototype4.pt",
+		"prototype5.pt",
+
+		"node1.pt",
+		"node2.pt",
+		"node3.pt",
+		"node4.pt",
+		"node5.pt",
+
+		"devops1.pt",
+		"devops2.pt",
+		"devops3.pt",
+		"devops4.pt",
+		"devops5.pt",
+		"devops6.pt",
+		"devops7.pt",
+		"devops8.pt",
+		"devops9.pt",
+		
+		"chef1.pt",
+		"chef2.pt",
+		"chef3.pt",
+		"chef4.pt",
+
+		"foss1.pt",
+		"foss2.pt",
+		"foss3.pt",
+		"foss4.pt",
+		"foss5.pt",
+
+		"epilog1.pt",
+		"epilog2.pt",
+		"reference.pt",
+		"thankyou.pt"
+
+		]
+}

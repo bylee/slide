@@ -1,0 +1,13 @@
+<div>
+	<h1>Just Do IT. Chef!</h1>
+	<div>
+		<ul>
+			<li>System Integration Framework - 서버 설정 자동화 툴</li>
+			<li>2009년 1월 Opscode가 오픈소스로 발표</li>
+			<li>Cloud의 등장으로 큰 성장을 이룸</li>
+			<li>Puppet vs Chef</li>
+			<li>580개의 Cookbook, 1,180여명의 멤버, 6,000여개의 GitHub Repository</li>
+			<li><a href="http://h3.kthcorp.com/2012/session/index/S026">http://h3.kthcorp.com/2012/session/index/S026</a></li>
+		</ul>
+	</div>
+</div>
